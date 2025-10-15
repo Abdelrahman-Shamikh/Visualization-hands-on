@@ -4,13 +4,26 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centered Image</title>
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+            display: flex;
+            justify-content: center; /* horizontal centering */
+            align-items: center;     /* vertical centering */
+        }
+        img {
+            max-width: 50%;   /* scales down if needed */
+            height: auto;     /* maintains aspect ratio */
+        }
+    </style>
 </head>
 <body>
-    <div style="text-align: center;">
-        <img src="https://www.datameer.com/wp-content/uploads/2019/12/Data-Vizualisation-924x512.png" style="width:50%; height:auto;">
-    </div>
+    <img src="https://www.datameer.com/wp-content/uploads/2019/12/Data-Vizualisation-924x512.png" alt="Data Visualization">
 </body>
+</html>
+
 
 
 Welcome to the App Data Visualization and Analysis project! This repository contains a comprehensive data analysis of Google Play Store apps, focusing on ratings, reviews, categories, installs, and other app metrics. The project demonstrates data cleaning, preprocessing, exploratory analysis, and insightful visualizations using Python.
