@@ -4,7 +4,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Centered Image</title>
     <style>
         body, html {
             height: 100%;
