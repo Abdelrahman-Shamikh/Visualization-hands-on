@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <img src="https://www.datameer.com/wp-content/uploads/2019/12/Data-Vizualisation-924x512.png">
+    <img src="https://www.datameer.com/wp-content/uploads/2019/12/Data-Vizualisation-924x512.png",width=0.5,height=0.5>
 </body>
 
 Welcome to the App Data Visualization and Analysis project! This repository contains a comprehensive data analysis of Google Play Store apps, focusing on ratings, reviews, categories, installs, and other app metrics. The project demonstrates data cleaning, preprocessing, exploratory analysis, and insightful visualizations using Python.
