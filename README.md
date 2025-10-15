@@ -7,7 +7,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-   <img src="https://www.datameer.com/wp-content/uploads/2019/12/Data-Vizualisation-924x512.png" style="width:50%; height:50%;">
+    <center>   
+        <img src="https://www.datameer.com/wp-content/uploads/2019/12/Data-Vizualisation-924x512.png" style="width:50%; height:50%;">
+
+    </center>
 
 </body>
 
