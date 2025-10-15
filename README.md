@@ -2,24 +2,11 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <style>
-        body, html {
-            height: 100%;
-            margin: 0;
-            display: flex;
-            justify-content: center; /* horizontal centering */
-            align-items: center;     /* vertical centering */
-        }
-        img {
-            max-width: 50%;   /* scales down if needed */
-            height: auto;     /* maintains aspect ratio */
-        }
-    </style>
-</head>
 <body>
-    <img src="https://www.datameer.com/wp-content/uploads/2019/12/Data-Vizualisation-924x512.png" alt="Data Visualization">
+    <p align="center">
+  <img src="https://www.datameer.com/wp-content/uploads/2019/12/Data-Vizualisation-924x512.png" width="450">
+</p>
+
 </body>
 </html>
 
