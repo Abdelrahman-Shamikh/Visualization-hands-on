@@ -5,10 +5,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Base64 Image Example</title>
 </head>
 <body>
-    <h1>Project Banner</h1>
     <img src="https://www.datameer.com/wp-content/uploads/2019/12/Data-Vizualisation-924x512.png">
 </body>
 
